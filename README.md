@@ -7,3 +7,4 @@
 下面是os161依赖的环境安装所参考的文档
   - [Uberi的github](https://github.com/Uberi/uw-cs350-development-environment/blob/master/Dockerfile)
   - [os161的官方指引](http://os161.eecs.harvard.edu/resources/setup.html)
+  - [Installing OS/161 On Your Own Machine](https://www.student.cs.uwaterloo.ca/~cs350/common/Install161NonCS.html)
