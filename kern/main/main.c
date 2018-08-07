@@ -16,6 +16,7 @@
 #include <vm.h>
 #include <syscall.h>
 #include <version.h>
+#include <hello.h>
 
 /*
  * These two pieces of data are maintained by the makefiles and build system.
@@ -159,7 +160,7 @@ int
 kmain(char *arguments)
 {
 	boot();
-
+        hello();
 	menu(arguments);
 
 	/* Should not get here */
